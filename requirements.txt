@@ -1,0 +1,13 @@
+pdfplumber
+pandas
+openpyxl
+easyocr
+torch
+torchvision
+pymupdf
+Pillow
+numpy
+scipy
+scikit-image
+opencv-python-headless
+pyyaml
